@@ -1,6 +1,6 @@
 [package]
 name = "parthia"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Nicholas Miklaucic <nicholas.miklaucic@gmail.com>"]
 description = "Fire Emblem calculations in Rust"
 license = "MIT OR Apache-2.0"
